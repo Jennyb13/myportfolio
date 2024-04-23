@@ -54,15 +54,15 @@
       }
 
       h1 {
-        font-size: 90px;
-        font-weight: 70;
+        font-size: 70px;
+        font-weight: 50;
 
         
       }
 
       button {
         width: 200px;
-        height: 70px;
+        height: 50px;
         border-radius: 50px;
         background-color: orange;
         border: none;
@@ -82,8 +82,8 @@
     
 
     .box {
-      padding: 40px;
-      border: 0.5px solid gray;
+      padding: 30px;
+      border: none;
       display: flex;
       flex-direction: column;
       justify-content: space-between;

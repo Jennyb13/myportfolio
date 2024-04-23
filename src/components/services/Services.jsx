@@ -104,7 +104,7 @@ const Services = () => {
                       Desafiar lo convencional, combinando horizontes tecnologicos.
                       Innovar con audacia y visión,creando soluciones únicas y genuinas.
                       Transformar ideas en realidades, fusionando arte y ciencia.
-                      Abrazar el cambio como agente de adaptabilidad.
+                      Abrazar el cambio como agente sustentable.
                   </p>
           <button>Go</button>
         </motion.div>
